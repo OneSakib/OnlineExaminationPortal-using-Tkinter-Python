@@ -1,0 +1,44 @@
+{
+    "userdetail": [
+        {
+            "username": "Sakib",
+            "email": "Maliksakib347@gmail.com",
+            "pass": "123"
+        },
+        {
+            "username": "Sakib",
+            "email": "Maliksakib347@gmail.com",
+            "pass": "123"
+        },
+        {
+            "username": "Gorav",
+            "email": "Malik",
+            "pass": "123"
+        },
+        {
+            "username": "Gorav",
+            "email": "Malik",
+            "pass": "123"
+        },
+        {
+            "username": "Adnan Khan",
+            "email": "adnan123@gmail.com",
+            "pass": "8954664647"
+        },
+        {
+            "username": "Sakib Malik",
+            "email": "maliksakib347@gmail.com",
+            "pass": "123"
+        },
+        {
+            "username": "Manish Sharma",
+            "email": "manish123@gmail.com",
+            "pass": "123"
+        },
+        {
+            "username": "Manish",
+            "email": "ManishSharma123@gmail.com",
+            "pass": "123"
+        }
+    ]
+}
